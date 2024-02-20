@@ -65,10 +65,11 @@ While Brigade Road exhibits the highest average cost at 696.51, St. Marks Road b
 Embark on a journey through Bangalore's diverse landscapes of purchasing power. Koramangala 7th Block boasts a thriving balance with a range of 100 to 1600 Rupees, while Sankey Road stands as a pinnacle, featuring a robust spectrum from 600 to 5000 Rupees. Uncover the city's economic tapestry, from the vibrant buzz of MG Road to the serene pockets of Old Airport Road. Each location weaves a unique narrative in the intricate fabric of Bangalore's cost dynamics, creating a rich mosaic of lifestyle choices.<br>
 
 
-### Top 4 Model Result After Hyperparameter Optimization
-<br>
-![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Hypertuning_pred.JPG)
-<br>
+### Top 4 Model Result After Hyperparameter Optimization <br>
+
+![Purchasing Power Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Hypertuning_pred.JPG)
+
+
 ### Summery and Recommendation:<br>
 
 1. **Prime Locations:** Choose bustling areas like Koramangala 7th Block for a thriving balance of affordability and diversity, attracting a range of customers.
