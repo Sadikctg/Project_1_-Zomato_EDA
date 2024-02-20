@@ -1,4 +1,4 @@
-## Zomato Restaurant Data Analysis
+## Zomato Restaurant Data Analysis (Summarized)
 ![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/zomato_cover.png)
 <br>
 **What is the purpose behind conducting this analysis?**<br>
@@ -61,5 +61,58 @@ While Brigade Road exhibits the highest average cost at 696.51, St. Marks Road b
 **Purchasing Power Analysis** <br>
 
 ![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.3%20Purchasing%20Power%20Analysis.png)
-Embark on a journey through Bangalore's diverse landscapes of purchasing power. Koramangala 7th Block boasts a thriving balance with a range of 100 to 1600 Rupees, while Sankey Road stands as a pinnacle, featuring a robust spectrum from 600 to 5000 Rupees. Uncover the city's economic tapestry, from the vibrant buzz of MG Road to the serene pockets of Old Airport Road. Each location weaves a unique narrative in the intricate fabric of Bangalore's cost dynamics, creating a rich mosaic of lifestyle choices.
+Embark on a journey through Bangalore's diverse landscapes of purchasing power. Koramangala 7th Block boasts a thriving balance with a range of 100 to 1600 Rupees, while Sankey Road stands as a pinnacle, featuring a robust spectrum from 600 to 5000 Rupees. Uncover the city's economic tapestry, from the vibrant buzz of MG Road to the serene pockets of Old Airport Road. Each location weaves a unique narrative in the intricate fabric of Bangalore's cost dynamics, creating a rich mosaic of lifestyle choices.<br>
 
+
+**Top 4 Model Result After Hyperparameter Optimization**
+<br>
+     Model Name  Accuracy Score  F1 Score  ROC-AUC
+  RandomForest          0.9118    0.9242   0.9708
+      LightGBM          0.9031    0.9159   0.9645
+       XGBoost          0.8756    0.8927   0.9521
+      CatBoost          0.8772    0.8947   0.9509
+
+
+**Summery and Recommendation:**<br>
+
+1. **Prime Locations:** Choose bustling areas like Koramangala 7th Block for a thriving balance of affordability and diversity, attracting a range of customers.
+
+2. **Diverse Cuisine:** Offer a diverse menu with 7 cuisines, as it correlates positively with higher customer satisfaction and ratings.
+
+3. **Budget-Friendly Options:** Focus on quick bites, delivery, and cafes to cater to the prevalent demand for affordable and convenient food services.
+
+4. **Online Ordering:** Prioritize online order services to boost customer engagement, votes, and overall restaurant visibility.
+
+5. **Casual Dining Charm:** Embrace the popularity of casual dining chains like "Onesta" for widespread recognition and customer loyalty.
+
+6. **Cafe Culture:** Capitalize on the café trend; "Cafe Coffee Day" and "Onesta" lead, indicating a thriving coffee and casual dining culture.
+
+7. **Strategic Chain Presence:** Open multiple outlets to establish a strong presence; chains like "Onesta" and "Cafe Coffee Day" lead in popularity.
+
+8. **Culinary Specialization:** Consider specializing in North Indian cuisine, which dominates the scene, followed closely by Chinese and South Indian options.
+
+9. **Striking Ambiance:** Create an inviting ambiance for dine-out experiences, as restaurants with higher ratings tend to have slightly higher dining costs.
+
+10. **Customer-Focused Pricing:** Set prices strategically between 300-1000 for a sweet spot; this range attracts a significant customer base without compromising on quality.
+
+11. **Signature Dishes:** Introduce signature dishes to stand out; "Drinks & Nightlife" venues with unique offerings tend to command higher average costs and ratings.
+
+12. **Innovative Desserts:** Enhance the dessert experience; while budget-friendly, desserts can elevate ratings and contribute to a positive overall dining experience.
+
+13. **Table Booking Services:** If feasible, offer table booking services for an added advantage, as it shows a moderate positive correlation with restaurant ratings.
+
+14. **Prime Real Estate:** Focus on culinary hotspots like Lavelle Road, Church Street, and Residency Road; these areas boast higher ratings, attracting discerning customers.
+
+15. **Leverage Local Favorites:** Identify and incorporate popular local cuisines; understanding the preference for specific cuisines in each location can attract more customers.
+
+16. **Interactive Online Presence:** Leverage a robust online presence; restaurants with online orders tend to receive higher votes, emphasizing the importance of visibility.
+
+17. **Delivery Dynamics:** Acknowledge the popularity of delivery services; Quick Bites and Delivery options are prevalent, offering a significant market for convenient food solutions.
+
+18. **Pricing Strategy:** Be mindful of pricing strategies; higher ratings are associated with spending above 1500 offline, signaling a potential market for premium dining experiences.
+
+19. **Customer Engagement:** Prioritize customer engagement; restaurants with online orders tend to garner higher votes, indicating an engaged and satisfied customer base.
+
+20. **Inclusive Meal Types:** Offer a well-rounded experience; combining delivery, dine-out, desserts, and cafes caters to diverse preferences, ensuring a broader customer base.
+
+Opening a new restaurant with these considerations can significantly enhance chances of success, catering to the dynamic preferences and behaviors of the Bengaluru dining community.
