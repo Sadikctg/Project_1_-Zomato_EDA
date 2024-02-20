@@ -1,4 +1,5 @@
 ## Zomato Restaurant Data Analysis
+![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Zomato%20(1).png)
 **What is the purpose behind conducting this analysis?**<br>
 1. Strategic Positioning: Gain insights for strategically positioning your restaurant in Bengaluru's diverse market.<br>
 2. Competitive Edge: Understand the competitive landscape, enabling you to differentiate and stand out.<br>
@@ -19,6 +20,7 @@
 17. Supply Chain Optimization: Streamline operations by identifying and addressing fragmented supply chain challenges.<br>
 18. Popular Dishes: Identify and offer the most liked dishes in a neighborhood.<br>
 19. Optimal Restaurant Type: Determine suitable restaurant types based on neighborhood demand and preferences.
+
 ### Dataset Details
 1. **Name:** The dataset includes information on 6,602 unique restaurant names. The most frequent name is "Cafe Coffee Day," appearing 86 times. This suggests a diverse culinary landscape with numerous establishments.
 
@@ -43,5 +45,14 @@
 11. **Rest Type Count:** The average count of restaurant types associated with each record is 1.15, suggesting that most establishments primarily fall into one category. This indicates a clear classification of restaurant types in the dataset.
 
 **Relationship between cost and rating, considering the impact of online delivery?** <br>
-![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Zomato%20(1).png)
+![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/11%20Cost%20vs%20Rate%20with%20Online%20Order.png)
+Many individuals prefer spending between 300-1000, with similar offline and online order counts. Those who spend 400-900 online influence both higher (3.7-4.7) and lower (2.5-3.5) ratings. Offline orders below 600 impact lower ratings (3.0-3.6). Spending above 1500 offline yields higher ratings than the average
+
+**Average Cost and Average Rate by Location**<br>
+![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.2%20Average%20Cost%20and%20Average%20Rate%20by%20Location.png)
+While Brigade Road exhibits the highest average cost at 696.51, St. Marks Road boasts the highest average rate of 4.02. This suggests a potential correlation between higher expenditure and superior dining experiences. Conversely, CV Raman Nagar represents the most budget-friendly option with an average cost of 345.83, albeit with a moderate average rate of 3.48. This suggests that cost doesn't always directly correlate with dining quality, as discerning diners may find hidden gems in more affordable locales.
+
+**Purchasing Power Analysis** <br>
+![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.3%20Purchasing%20Power%20Analysis.png)
+Embark on a journey through Bangalore's diverse landscapes of purchasing power. Koramangala 7th Block boasts a thriving balance with a range of 100 to 1600 Rupees, while Sankey Road stands as a pinnacle, featuring a robust spectrum from 600 to 5000 Rupees. Uncover the city's economic tapestry, from the vibrant buzz of MG Road to the serene pockets of Old Airport Road. Each location weaves a unique narrative in the intricate fabric of Bangalore's cost dynamics, creating a rich mosaic of lifestyle choices.
 
