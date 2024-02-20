@@ -1,5 +1,5 @@
 ## Zomato Restaurant Data Analysis
-![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Zomato%20(1).png)
+![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/zomato_cover.png)
 <br>
 **What is the purpose behind conducting this analysis?**<br>
 1. Strategic Positioning: Gain insights for strategically positioning your restaurant in Bengaluru's diverse market.<br>
