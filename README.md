@@ -59,6 +59,12 @@ Many individuals prefer spending between 300-1000, with similar offline and onli
 While Brigade Road exhibits the highest average cost at 696.51, St. Marks Road boasts the highest average rate of 4.02. This suggests a potential correlation between higher expenditure and superior dining experiences. Conversely, CV Raman Nagar represents the most budget-friendly option with an average cost of 345.83, albeit with a moderate average rate of 3.48. This suggests that cost doesn't always directly correlate with dining quality, as discerning diners may find hidden gems in more affordable locales.
 <br>
 
+### Average Restaurant Costs for Different Meal Types
+![Popular Restaurants Based on Meal Type](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.6%20Average%20Restaurant%20Costs%20for%20Different%20Meal%20Types.png)
+
+Desserts and delivery options, such as cafes, tend to be more budget-friendly, with costs ranging from 409 to 646. Meanwhile, dine-out experiences, buffets, and pubs/bars exhibit higher average costs, peaking at 1454. "Drinks & Nightlife" category, with an average cost of 1454, which signals a trend towards higher spending for those seeking vibrant nocturnal experiences.
+
+
 ### Purchasing Power Analysis <br>
 
 ![Purchasing Power Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.3%20Purchasing%20Power%20Analysis.png)
