@@ -55,24 +55,19 @@ Many individuals prefer spending between 300-1000, with similar offline and onli
 
 ### Average Cost and Average Rate by Location <br>
 
-![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.2%20Average%20Cost%20and%20Average%20Rate%20by%20Location.png)
+![Average Cost and Average Rate by Location](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.2%20Average%20Cost%20and%20Average%20Rate%20by%20Location.png)
 While Brigade Road exhibits the highest average cost at 696.51, St. Marks Road boasts the highest average rate of 4.02. This suggests a potential correlation between higher expenditure and superior dining experiences. Conversely, CV Raman Nagar represents the most budget-friendly option with an average cost of 345.83, albeit with a moderate average rate of 3.48. This suggests that cost doesn't always directly correlate with dining quality, as discerning diners may find hidden gems in more affordable locales.
 <br>
 
 ### Purchasing Power Analysis <br>
 
-![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.3%20Purchasing%20Power%20Analysis.png)
+![Purchasing Power Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.3%20Purchasing%20Power%20Analysis.png)
 Embark on a journey through Bangalore's diverse landscapes of purchasing power. Koramangala 7th Block boasts a thriving balance with a range of 100 to 1600 Rupees, while Sankey Road stands as a pinnacle, featuring a robust spectrum from 600 to 5000 Rupees. Uncover the city's economic tapestry, from the vibrant buzz of MG Road to the serene pockets of Old Airport Road. Each location weaves a unique narrative in the intricate fabric of Bangalore's cost dynamics, creating a rich mosaic of lifestyle choices.<br>
 
 
 ### Top 4 Model Result After Hyperparameter Optimization
 <br>
-Model Name   Accuracy Score   F1 Score        ROC-AUC <br>
-RandomForest   0.9118          0.9242         0.9708 <br>
-LightGBM       0.9031          0.9159         0.9645 <br>
-XGBoost        0.8756          0.8927         0.9521 <br>
-CatBoost       0.8772          0.8947         0.9509 <br>
- 
+![Hyperparameter Optimization](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Hypertuning_pred.JPG)
 
 ### Summery and Recommendation:<br>
 
