@@ -43,5 +43,5 @@
 11. **Rest Type Count:** The average count of restaurant types associated with each record is 1.15, suggesting that most establishments primarily fall into one category. This indicates a clear classification of restaurant types in the dataset.
 
 **Relationship between cost and rating, considering the impact of online delivery?** <br>
-![Zomato Data Analysis]([/assets/img/eeg_band_discovery.jpeg](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Zomato.png)https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Zomato.png)
+![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Zomato%20(1).png)
 
