@@ -2,10 +2,10 @@
 **What is the purpose behind conducting this analysis?**<br>
 1. Strategic Positioning: Gain insights for strategically positioning your restaurant in Bengaluru's diverse market.<br>
 2. Competitive Edge: Understand the competitive landscape, enabling you to differentiate and stand out.<br>
-3. Localized Decision-making:Tailor decisions based on specific neighborhood dynamics, preferences, and demands.<br>
+3. Localized Decision Making:Tailor decisions based on specific neighborhood dynamics, preferences, and demands.<br>
 4. Operational Efficiency: Optimize operations by addressing challenges related to staffing, supply chain, and licensing.<br>
 5. Market Opportunities: Identify untapped markets, diversification opportunities, and emerging culinary trends.<br>
-6. Customer-Centric Approach: Enhance customer satisfaction by aligning menus and themes with local preferences.<br>
+6. Customer Centric Approach: Enhance customer satisfaction by aligning menus and themes with local preferences.<br>
 7. Regulatory Compliance: Navigate regulatory hurdles effectively by understanding licensing requirements and challenges.<br>
 8. Continuous Improvement: Utilize customer reviews and ratings for continuous improvement and service enhancement.<br>
 9. Strategic Marketing: Develop targeted marketing strategies aligned with unique neighborhood characteristics.<br>
@@ -19,3 +19,29 @@
 17. Supply Chain Optimization: Streamline operations by identifying and addressing fragmented supply chain challenges.<br>
 18. Popular Dishes: Identify and offer the most liked dishes in a neighborhood.<br>
 19. Optimal Restaurant Type: Determine suitable restaurant types based on neighborhood demand and preferences.
+### Dataset Details
+1. **Name:** The dataset includes information on 6,602 unique restaurant names. The most frequent name is "Cafe Coffee Day," appearing 86 times. This suggests a diverse culinary landscape with numerous establishments.
+
+2. **Online Order:** Among the 41,202 records, 27,055 indicate that online orders are available, reflecting the growing trend of digital convenience in the food industry. The majority of restaurants offer this service.
+
+3. **Book Table:** For the "Book Table" feature, 34,923 entries indicate that the service is not available. This is a common trend, as many casual dining places may not require table reservations.
+
+4. **Rate:** The average rating across all restaurants is approximately 3.70, with a minimum of 1.8 and a maximum of 4.9. This indicates a generally favorable rating environment, with a tendency towards higher scores.
+
+5. **Votes:** The average number of votes per restaurant is 352, ranging from 0 to 16,832. This wide distribution suggests varying levels of popularity and engagement among establishments.
+
+6. **Location:** The dataset covers 92 unique locations, with "BTM" being the most prevalent, featuring 3,873 restaurants. Location diversity indicates a broad representation of neighborhoods in Bangalore.
+
+7. **Rest Type:** There are 87 unique restaurant types, with "Quick Bites" being the most common (13,866 occurrences). This highlights the prevalence of casual, quick-service dining options.
+
+8. **Cuisines:** The dataset encompasses 2,367 unique cuisines, with "North Indian" appearing 2,107 times. This diverse culinary offering showcases the richness of Bangalore's food scene.
+
+9. **Cost:** The average cost of dining is approximately 603 Rupees, with a minimum of 40 Rupees and a maximum of 6,000 Rupees. This wide cost range caters to various budget preferences.
+
+10. **Meal Type:** The "Delivery" meal type is the most prevalent among the seven categories, with 20,410 instances. This aligns with the increasing popularity of food delivery services.
+
+11. **Rest Type Count:** The average count of restaurant types associated with each record is 1.15, suggesting that most establishments primarily fall into one category. This indicates a clear classification of restaurant types in the dataset.
+
+**Relationship between cost and rating, considering the impact of online delivery?** <br>
+![Zomato Data Analysis]([/assets/img/eeg_band_discovery.jpeg](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Zomato.png)https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Zomato.png)
+
