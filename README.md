@@ -51,11 +51,13 @@
 ![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/11%20Cost%20vs%20Rate%20with%20Online%20Order.png)
 Many individuals prefer spending between 300-1000, with similar offline and online order counts. Those who spend 400-900 online influence both higher (3.7-4.7) and lower (2.5-3.5) ratings. Offline orders below 600 impact lower ratings (3.0-3.6). Spending above 1500 offline yields higher ratings than the average
 <br>
+
 **Average Cost and Average Rate by Location**<br>
 
 ![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.2%20Average%20Cost%20and%20Average%20Rate%20by%20Location.png)
 While Brigade Road exhibits the highest average cost at 696.51, St. Marks Road boasts the highest average rate of 4.02. This suggests a potential correlation between higher expenditure and superior dining experiences. Conversely, CV Raman Nagar represents the most budget-friendly option with an average cost of 345.83, albeit with a moderate average rate of 3.48. This suggests that cost doesn't always directly correlate with dining quality, as discerning diners may find hidden gems in more affordable locales.
 <br>
+
 **Purchasing Power Analysis** <br>
 
 ![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/1.3%20Purchasing%20Power%20Analysis.png)
