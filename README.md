@@ -67,8 +67,8 @@ Embark on a journey through Bangalore's diverse landscapes of purchasing power. 
 
 ### Top 4 Model Result After Hyperparameter Optimization
 <br>
-![Hyperparameter Optimization](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Hypertuning_pred.JPG)
-
+![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Hypertuning_pred.JPG)
+<br>
 ### Summery and Recommendation:<br>
 
 1. **Prime Locations:** Choose bustling areas like Koramangala 7th Block for a thriving balance of affordability and diversity, attracting a range of customers.
