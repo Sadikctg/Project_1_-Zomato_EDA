@@ -1,6 +1,7 @@
 ## Zomato Restaurant Data Analysis (Summarized)
 ![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/zomato_cover.png)
 <br>
+
 **What is the purpose behind conducting this analysis?**<br>
 1. Strategic Positioning: Gain insights for strategically positioning your restaurant in Bengaluru's diverse market.<br>
 2. Competitive Edge: Understand the competitive landscape, enabling you to differentiate and stand out.<br>
@@ -66,12 +67,12 @@ Embark on a journey through Bangalore's diverse landscapes of purchasing power. 
 
 ### Top 4 Model Result After Hyperparameter Optimization
 <br>
-     Model Name  Accuracy Score  F1 Score  ROC-AUC <br>
-  RandomForest          0.9118    0.9242   0.9708 <br>
-      LightGBM          0.9031    0.9159   0.9645 <br>
-       XGBoost          0.8756    0.8927   0.9521 <br>
-      CatBoost          0.8772    0.8947   0.9509 <br>
-
+Model Name   Accuracy Score   F1 Score        ROC-AUC <br>
+RandomForest   0.9118          0.9242         0.9708 <br>
+LightGBM       0.9031          0.9159         0.9645 <br>
+XGBoost        0.8756          0.8927         0.9521 <br>
+CatBoost       0.8772          0.8947         0.9509 <br>
+ 
 
 ### Summery and Recommendation:<br>
 
