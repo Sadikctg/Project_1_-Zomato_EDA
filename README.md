@@ -1,5 +1,6 @@
 ## Zomato Restaurant Data Analysis
 ![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/Zomato%20(1).png)
+<br>
 **What is the purpose behind conducting this analysis?**<br>
 1. Strategic Positioning: Gain insights for strategically positioning your restaurant in Bengaluru's diverse market.<br>
 2. Competitive Edge: Understand the competitive landscape, enabling you to differentiate and stand out.<br>
@@ -45,6 +46,7 @@
 11. **Rest Type Count:** The average count of restaurant types associated with each record is 1.15, suggesting that most establishments primarily fall into one category. This indicates a clear classification of restaurant types in the dataset.
 
 **Relationship between cost and rating, considering the impact of online delivery?** <br>
+<br>
 ![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/11%20Cost%20vs%20Rate%20with%20Online%20Order.png)
 Many individuals prefer spending between 300-1000, with similar offline and online order counts. Those who spend 400-900 online influence both higher (3.7-4.7) and lower (2.5-3.5) ratings. Offline orders below 600 impact lower ratings (3.0-3.6). Spending above 1500 offline yields higher ratings than the average
 
