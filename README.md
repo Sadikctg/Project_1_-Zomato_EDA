@@ -44,7 +44,8 @@
 10. **Meal Type:** The "Delivery" meal type is the most prevalent among the seven categories, with 20,410 instances. This aligns with the increasing popularity of food delivery services.
 
 11. **Rest Type Count:** The average count of restaurant types associated with each record is 1.15, suggesting that most establishments primarily fall into one category. This indicates a clear classification of restaurant types in the dataset.
-<br>
+
+
 **Relationship between cost and rating, considering the impact of online delivery?** <br>
 
 ![Zomato Data Analysis](https://github.com/Sadikctg/Project_1_Zomato_EDA/blob/main/images/11%20Cost%20vs%20Rate%20with%20Online%20Order.png)
